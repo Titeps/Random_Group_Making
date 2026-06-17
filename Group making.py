@@ -13,8 +13,9 @@ for i in range (x_group) :
         rdm = randint(0,len(students) -1)
         print(students[rdm])
         students.pop(rdm)
-
     print()
+
+print(f"student left : {students}")
 
 
 
