@@ -1,6 +1,6 @@
 from random import randint
 # list of student
-students = ["Camilla","Mary","Muriel","Myriam","Sibylle","Kaya","Imane B.","Parita","Elena","Julie","Imane Z."]
+students = ["Camilla","Penny","Muriel","Myriam","Sibylle","Kaya","Imane B.","Parita","Elena","Julie","Imane Z."]
 
 # making groups
 group_of = 2
